@@ -8,6 +8,7 @@ Aqui você encontra atividades práticas que estou desenvolvendo para aprender a
 🧩 Sobre este Repositório
 
 Este repositório foi criado para:
+
 	•	Praticar a criação de páginas com estrutura semântica;
 	•	Entender como funcionam tags, atributos e hierarquia no HTML;
 	•	Criar pequenos projetos e exercícios para reforçar o aprendizado;
@@ -18,6 +19,7 @@ Este repositório foi criado para:
 ⚙️ Como Visualizar os Arquivos
 
 Você pode visualizar os arquivos .html de forma simples:
+
 	1.	Abra o arquivo que deseja visualizar
 	2.	Clique com o botão direito
 	3.	Escolha “Abrir no Navegador” (Chrome, Edge, Firefox…)
@@ -25,12 +27,14 @@ Você pode visualizar os arquivos .html de forma simples:
 
 Se estiver usando o VS Code, você pode instalar a extensão:
 
+
 Live Server
 Para abrir a página com atualização automática.
 
 ⸻
 
 🧠 Conteúdos Abordados
+
 	•	Estrutura básica do HTML (html, head, body)
 	•	Títulos e parágrafos
 	•	Listas (ordenadas e não ordenadas)
