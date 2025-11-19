@@ -37,7 +37,6 @@ Se estiver a usar o VS Code, pode instalar a extensão **Live Server** para abri
 *   Links e navegação
 *   Imagens
 *   Tabelas
-*   Formulários
 *   Estrutura semântica (`header`, `nav`, `main`, `section`, `footer`)
 *   Pequenos projetos práticos
 
