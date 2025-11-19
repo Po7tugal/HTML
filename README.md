@@ -1,7 +1,7 @@
 # 📘 Exercícios de HTML
 
 Bem-vindo(a) ao meu repositório de Exercícios de HTML!
-Aqui você encontra atividades práticas que estou desenvolvendo para aprender a criar páginas web, entender a estrutura do HTML e dar meus primeiros passos no desenvolvimento front-end.
+Aqui encontra atividades práticas que estou a desenvolver para aprender a criar páginas web, entender a estrutura do HTML e dar os meus primeiros passos no desenvolvimento front-end.
 
 ⸻
 
@@ -9,44 +9,40 @@ Aqui você encontra atividades práticas que estou desenvolvendo para aprender a
 
 Este repositório foi criado para:
 
-	•	Praticar a criação de páginas com estrutura semântica;
-	•	Entender como funcionam tags, atributos e hierarquia no HTML;
-	•	Criar pequenos projetos e exercícios para reforçar o aprendizado;
-	•	Construir a base necessária para futuramente aprender CSS, JavaScript e desenvolvimento web completo.
+*   Praticar a criação de páginas com estrutura semântica;
+*   Entender como funcionam *tags*, atributos e hierarquia no HTML;
+*   Criar pequenos projetos e exercícios para reforçar a aprendizagem;
+*   Construir a base necessária para futuramente aprender CSS, JavaScript e desenvolvimento web completo.
 
 ⸻
 
 ⚙️ Como Visualizar os Arquivos
 
-Você pode visualizar os arquivos .html de forma simples:
+Pode visualizar os arquivos .html de forma simples:
 
-	1.	Abra o arquivo que deseja visualizar
-	2.	Clique com o botão direito
-	3.	Escolha “Abrir no Navegador” (Chrome, Edge, Firefox…)
-	4.	Pronto! Veja a página funcionando
+1.  Abra o arquivo que deseja visualizar.
+2.  Clique com o botão direito.
+3.  Escolha "Abrir no Navegador" (Chrome, Edge, Firefox, etc.).
+4.  Pronto! Veja a página a funcionar.
 
-Se estiver usando o VS Code, você pode instalar a extensão:
-
-
-Live Server
-Para abrir a página com atualização automática.
+Se estiver a usar o VS Code, pode instalar a extensão **Live Server** para abrir a página com atualização automática.
 
 ⸻
 
 🧠 Conteúdos Abordados
 
-	•	Estrutura básica do HTML (html, head, body)
-	•	Títulos e parágrafos
-	•	Listas (ordenadas e não ordenadas)
-	•	Links e navegação
-	•	Imagens
-	•	Tabelas
-	•	Formulários
-	•	Estrutura semântica (header, nav, main, section, footer)
-	•	Pequenos projetos práticos
+*   Estrutura básica do HTML (`html`, `head`, `body`)
+*   Títulos e parágrafos
+*   Listas (ordenadas e não ordenadas)
+*   Links e navegação
+*   Imagens
+*   Tabelas
+*   Formulários
+*   Estrutura semântica (`header`, `nav`, `main`, `section`, `footer`)
+*   Pequenos projetos práticos
 
 ⸻
 
-🧑‍💻 Autor
+# 🧑‍💻 Autor
 
 👤 Filipe Portugal
