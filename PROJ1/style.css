@@ -1,0 +1,100 @@
+* {
+  font-family: arial;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header {
+  position: relative;
+}
+
+header .logo {
+  width: 40%;
+  float: center;
+  color: #000;
+  text-align: center;
+  font-size: 30px;
+}
+
+header .navbar {
+
+  width: 60%;
+  float: right;
+  text-align: right;
+}
+
+a {
+  color: #c00
+}
+
+a:hover {
+  color: #fc0
+}
+
+.content {
+  border: 1px solid rgba(0, 255, 0, 0);
+  width: 100%;
+  color: #000
+}
+
+.mainArticle {
+  width: 100%
+}
+
+.mainArticle img {
+  width: 100%
+}
+
+.mainArticle .info {
+  padding: 15px;
+}
+
+.caixa-geral {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.caixa-jogo-galo {
+  background-color: #ddd;
+  text-align: center;
+  float: left;
+  width: 98px;
+  height: 73px;
+  font-size: 40px;
+  border: 1px solid #fff;
+  padding-top: 25px;
+  border-radius: 20px;
+  cursor: pointer;
+  /* firefox */
+  -moz-transition: all 0, 8s ease-in;
+  /* webkit */
+  -webkit-transition: all 0, 8s ease-in;
+  /* opera */
+  -o-transition: all 0, 8s ease-in;
+  /* standart */
+  transition: all 0, 8s ease-in;
+}
+
+.caixa-jogo-galo:hover {
+  background: #999;
+}
+
+.footer {
+  border: 1px solid #000;
+  text-align: center;
+  color: #ffff;
+}
+
+@media screen and (max-width: 640px) {
+
+  header .navbar,
+  header .navbar {
+    width: 100%;
+    text-align: center;
+  }
+}
