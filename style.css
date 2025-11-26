@@ -1,0 +1,137 @@
+* {
+    font-family: arial;
+    /*border: 1px solid #000;*/
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+header {   
+    /*border: 1px solid #ff0000;*/
+    position: relative;
+    padding: 10px;
+}
+#headXPTO {
+    background: #000;
+}
+header .logo {
+    width: 40%;  
+    float: left;
+    padding: 25px 0px;
+    font-family: "Momo Signature", cursive;
+    font-weight: 400;
+    font-style: normal;    
+    font-size: 30px;
+}
+header .navbar {
+    width: 60%;
+    float: right;
+    text-align: right;
+}
+.navbar a {
+    color: #c00;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size:12px;
+    padding: 15px;
+}
+.navbar a:hover {
+    color: rgb(55, 0, 255);
+}
+
+/** content**/
+.content {   
+    /*border: 1px solid #0f0;*/
+    width:100%;
+}
+
+/** artigo com maior destaque */
+.mainArticle { width:100%; }
+.mainArticle img { width:100%; }
+.mainArticle .info { padding:15px;}
+
+
+/** jogo do galo */
+
+#btnreload {
+    text-align: center;
+    display: none;
+    margin: 20px;
+}
+#btnreload a {
+    background: rgb(80, 57, 31);
+    padding: 5px 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #fff;
+    -moz-transition: all 0.4s ease-in;
+    -webkit-transition: all 0.4s ease-in;
+    -o-transition: all 0.4s ease-in;
+    transition: all 0.4s ease-in;
+}
+#btnreload a:hover {
+    background: rgb(80, 57, 31);
+    color: #f3efc1;
+}
+
+.caixa-geral {
+    width: 300px; margin: 0 auto; 
+} 
+
+.caixa-jogo-galo {
+    background: #ddd;
+    float: left;
+    width:98px;
+    height: 73px;
+    text-align:center;
+    font-size:40px;
+    border: 1px solid #fff;
+    padding-top: 25px;
+    border-radius:  20px;
+    cursor: pointer;
+    /* Firefox */
+    -moz-transition: all 1s ease-in;
+    /* Webkit */ 
+    -webkit-transition: all 1s ease-in;
+    /* Opera */
+    -o-transition: all 1s ease-in;
+    /* Standard */
+    transition: all 1s ease-in;
+}
+.caixa-jogo-galo:hover {
+    background: #999;
+}
+.caixa-jogo-galo.ganhou {
+    background: #00eeff; color: #fff
+}
+.caixa-jogo-galo.tabuleirocheio {
+    background: rgb(0, 0, 0); color: #fff
+}
+
+.footer {   
+    /*border: 1px solid #00f;*/
+    text-align: center;
+    line-height: 2;
+    margin-bottom: 30px;
+}
+.footer a {
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size:8px;
+    padding: 5px;
+}
+.footer a:hover {
+    color: rgb(68, 0, 255);
+    
+}
+
+
+@media screen and (max-width: 640px) {
+    header .logo, header .navbar {
+        width: 100%;  
+        text-align:center;
+    }
+}
