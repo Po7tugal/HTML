@@ -40,10 +40,7 @@ Before this repository, a web page was something I only used. Now it's something
 }
 ```
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-NEXT%20UP-4F7CAC?style=for-the-badge" alt="Next up" />
-  <img src="https://img.shields.io/badge/-TAILWIND%20CSS-0B2447?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-</div>
+
 
 ---
 
