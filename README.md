@@ -1,48 +1,52 @@
-# 📘 HTML Exercises
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B2447,100:4F7CAC&height=140&section=header&text=HTML%20%C2%B7%20CSS%20%C2%B7%20JS&fontSize=44&fontColor=ffffff&fontAlignY=50" width="100%" alt="HTML CSS JS" />
+</div>
 
-Welcome to my HTML Exercises repository!  
-Here you'll find practical activities I'm working on to learn how to create web pages, understand HTML structure, and take my first steps into front-end development.
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML5-0B2447?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-4F7CAC?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-JAVASCRIPT-0B2447?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+</div>
 
----
+<br>
 
-## 🧩 About This Repository
-
-This repository was created to:
-
-- Practice building pages with semantic structure  
-- Understand how tags, attributes, and HTML hierarchy work  
-- Create small projects and exercises to reinforce learning  
-- Build the foundation needed to learn CSS, JavaScript, and full web development in the future  
-
----
-
-## ⚙️ How to View the Files
-
-You can easily view the `.html` files:
-
-1. Open the file you want to view  
-2. Right-click it  
-3. Select **“Open in Browser”** (Chrome, Edge, Firefox, etc.)  
-4. Done! The page will open and run normally  
-
-If you're using **VS Code**, you can install the **Live Server** extension to open the page with automatic reload.
+<p align="center">
+  Where I learn to build for the web, one page at a time.
+</p>
 
 ---
 
-## 🧠 Topics Covered
+<h2 align="center"><i>What this repository taught me</i></h2>
 
-- Basic HTML structure (html, head, body)  
-- Headings and paragraphs  
-- Lists (ordered and unordered)  
-- Links and navigation  
-- Images  
-- Tables  
-- Semantic structure (header, nav, main, section, footer)  
-- Small practical projects  
+```css
+.filipe {
+  learned: responsive-layouts;      /* pages that adapt to any screen */
+  learned: basic-animations;        /* making things move, on purpose */
+  learned: building-a-web-page;     /* from an empty file to something live */
+}
+```
+
+Before this repository, a web page was something I only used. Now it's something I can build: structure it, style it, make it fit different screens, and give it a little life with animation.
 
 ---
 
-## 🧑‍💻 Author
+<h2 align="center"><i>Where I want to take it</i></h2>
 
-**👤 Filipe Portugal**
+```css
+.filipe:next {
+  goal: prettier-pages;             /* better design, better eye for detail */
+  goal: better-animations;          /* smoother, more intentional motion */
+  goal: tailwind-css;               /* and frameworks in general */
+}
+```
 
+<div align="center">
+  <img src="https://img.shields.io/badge/-NEXT%20UP-4F7CAC?style=for-the-badge" alt="Next up" />
+  <img src="https://img.shields.io/badge/-TAILWIND%20CSS-0B2447?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</div>
+
+---
+
+<p align="center">
+  <a href="https://github.com/Po7tugal">← Back to my profile</a>
+</p>
